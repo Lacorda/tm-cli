@@ -1,10 +1,10 @@
-# tm-cli
+# tm-lite
 一个用来管理开发模板的脚手架
 
 ## 安装
 
 ```
-npm install tm-cli -g
+npm install tm-lite -g
 ```
 
 ## 使用

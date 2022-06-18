@@ -1,5 +1,5 @@
 {
-  "name": "tm-cli",
+  "name": "tm-lite",
   "version": "1.0.0",
   "description": "a scaffold for managing templates",
   "main": "index.js",
