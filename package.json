@@ -1,0 +1,24 @@
+{
+  "name": "tm-cli",
+  "version": "1.0.0",
+  "description": "a scaffold for managing templates",
+  "main": "index.js",
+  "bin": {
+    "tm": "bin/tm"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "lacorda",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "cli-table": "^0.3.11",
+    "commander": "^9.3.0",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^8.2.4",
+    "log-symbols": "^2.2.0",
+    "ora": "^3.2.0"
+  }
+}
